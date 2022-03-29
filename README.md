@@ -8,4 +8,4 @@ For this lab, I added a few texts and a button to increment the number. </br>
 
 To check my code, go to app/src/main/java/MainActivity.java and app/src/main/res/layout/activity_main.xml </br>
 
-Youtube Video Link: 
+Youtube Video Link: https://www.youtube.com/watch?v=s_Bvd2Dzfb8
